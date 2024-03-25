@@ -1,6 +1,0 @@
-
-Attention!!!!!
-
-Turn Off Windows Security or any other protection software
-
-otherwise the script won't work correctly
